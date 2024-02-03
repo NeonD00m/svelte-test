@@ -1,8 +1,5 @@
-<html>
-	<head>
+<script>
+    import App from "../../my source/App.svelte";
+</script>
 
-	</head>
-	<body>
-		<App />
-	</body>
-\</html>
+<App />
