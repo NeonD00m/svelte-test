@@ -2,4 +2,6 @@
     import App from "../../my source/App.svelte";
 </script>
 
-<App />
+<svelte:head>
+    <App />
+</svelte:head>
